@@ -36,5 +36,4 @@ The project is an interactive **Tic Tac Toe game** developed using **HTML, CSS, 
 │ └── sounds/
 └── README.md
 
-## 📂 Project Structure
 
